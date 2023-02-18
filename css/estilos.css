@@ -2,11 +2,16 @@ body{
     font-family: arial;
     font-size: 20px;
     text-align: center;
-    color:mediumseagreen;
+    color:black;
+    margin: 0;
+    padding: 0;
 }
-header{
-    /* background-color: #6359E7; */
-    /* width: 500px; */
-    /* color:white; */
+
+#container{
+    width:70%;
+    padding: 1em;
+    border: 1px solid gray;
+    text-align: left;
+    margin: 0 auto;
 }
 
